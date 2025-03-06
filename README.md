@@ -6,3 +6,4 @@ git.init (repozitory)
 git add name.rashirenie
 git commit "commentary"
 git status ( состояние )
+git log 
